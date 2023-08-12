@@ -6,6 +6,11 @@
 <br>
 Using github to keep track and don’t forget the effort for each project.🚀
 
+<h1><b>FdF</b></h1>
+<a href="https://github.com/JaeSeoKim/badge42">
+  <img src="https://badge42.vercel.app/api/v2/cll6dh4vj001608mgom55zwrq/project/3234697" alt="eraccane's 42 FdF Score" />
+</a>
+
 <h1><b>Exam Rank 02</b></h1>
 <a href="https://github.com/JaeSeoKim/badge42">
   <img src="https://badge42.vercel.app/api/v2/cll6dh4vj001608mgom55zwrq/project/3150338" alt="eraccane's 42 Exam Rank 02 Score" />
