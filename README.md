@@ -7,54 +7,15 @@
 Using github to keep track and don’t forget the effort for each project.🚀
 <br>
 
-<table border="0" cellspacing="10" cellpadding="10">
-  <tbody>
-    <tr>
-      <td>Valore1</td>
-      <td>Valore2</td>
-    </tr>
-    <tr>
-      <td>Valore1</td>
-      <td>Valore2</td>
-    </tr>
-    <tr>
-      <td>Valore1</td>
-      <td>Valore2</td>
-    </tr>
-    <tr>
-      <td>Valore1</td>
-      <td>Valore2</td>
-    </tr>
-    <tr>
-      <td>Valore1</td>
-      <td>Valore2</td>
-    </tr>
-    <tr>
-      <td>
-        <h3><b>get_next_line</b></h3>
-      </td>
-      <td>
-        <h1>125</h1>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3><b>Libft</b></h3>
-      </td>
-      <td style="width:">
-        <h1>125</h1>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-
-
-
-
+| Project | Mark |
+| :--- | :---|
+| [Fdf](42FdF) | 125 |
+| [Push Swap](42Push_swap) | 98 |
+| [Minitalk](42Minitalk) | 100 |
+| Born2beRoot | 100 |
+| [Ft_printf](42ft_printf) | 100 |
+| [Get_next_line](42get_next_line) | 125 |
+| [Libft](42Libft) | 125 |
 
 
 <h1><b>FdF</b></h1>
