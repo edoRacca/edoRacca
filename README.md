@@ -9,7 +9,7 @@ Using github to keep track and don’t forget the effort for each project.🚀
 
 | Project | Mark |
 | :--- | :---|
-| [Fdf](42FdF) | 125 |
+| [Fdf](/42FdF) | 125 |
 | [Push Swap](42Push_swap) | 98 |
 | [Minitalk](42Minitalk) | 100 |
 | Born2beRoot | 100 |
