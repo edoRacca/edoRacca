@@ -1,4 +1,4 @@
-<h3>Using github to keep track and don’t forget the effort for each project. 🚀 </h3>
+<h1>Using github to keep track and don’t forget the effort for each project. 🚀 </h1>
 `A dropout will beat a genius through hard work.`
 <br>
 <br>
