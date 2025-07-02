@@ -5,5 +5,15 @@
 <br>
 <br>
 <p>A simple guy who decided to start 42 path, fail it and start again to finish it</p>
-
-<a href="https://wakatime.com/@67f40e9d-8818-4e5c-b889-df89a0380bd2"><img src="https://wakatime.com/badge/user/67f40e9d-8818-4e5c-b889-df89a0380bd2.svg" alt="Total time coded since Jun 21 2025" /></a>
+<p>
+  Coding time since June 21 2025:
+</p>
+  <a href="https://wakatime.com/@67f40e9d-8818-4e5c-b889-df89a0380bd2"><img src="https://wakatime.com/badge/user/67f40e9d-8818-4e5c-b889-df89a0380bd2.svg" alt="Total time coded since Jun 21 2025" /></a>
+<!--
+<p align="center">
+  <p>
+    Skills acquired:
+  </p>
+  <img src="https://skillicons.dev/icons?i=java,c,bash,git,linux,mysql,vscode" />
+</p>
+-->
