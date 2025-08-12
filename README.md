@@ -7,7 +7,7 @@
 <p>
   A simple guy who decided to start 42 path, fail it and start again to finish it
   <br>
-  Momently in [42Florence](https://www.42firenze.it) like edraccan (https://profile.intra.42.fr/users/edraccan)
+  Momently in 42Florence like edraccan (https://profile.intra.42.fr/users/edraccan)
 </p>
 <p>
   <a href="https://wakatime.com/@67f40e9d-8818-4e5c-b889-df89a0380bd2">
